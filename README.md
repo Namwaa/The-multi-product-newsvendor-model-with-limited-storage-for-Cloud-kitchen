@@ -10,3 +10,4 @@ Multi-product newsvendor ภายใต้ข้อจำกัดด้าน�
 ![](https://img.shields.io/badge/python-PROPHET-yellow)
 ![](https://img.shields.io/badge/python-XGBOOST-yellow)
 ![](https://img.shields.io/badge/Excel-Solver-brightgreen)
+![](https://img.shields.io/badge/Tableau-Prep-lightblue)
